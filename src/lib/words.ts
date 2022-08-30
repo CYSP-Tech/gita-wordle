@@ -34,7 +34,7 @@ export const isWinningWord = (word: string) => {
 }
 
 export const getWordOfDay = () => {
-  const now = Date.now()
+  //const now = Date.now()
   const msInDay = 86400000
   //var index = Math.floor((now - EPOCH) / msInDay)
   var index = Math.floor(Math.random() * WORDS.length)

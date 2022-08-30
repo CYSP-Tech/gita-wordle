@@ -21,7 +21,7 @@ import { WORDLEN } from './constants/wordlist'
 import { GLOSSES } from './constants/glosses'
 import {
   loadGameStateFromLocalStorage,
-  saveGameStateToLocalStorage,
+ // saveGameStateToLocalStorage,
 } from './lib/localStorage'
 
 const ALERT_TIME_MS = 2100
