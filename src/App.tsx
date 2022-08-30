@@ -61,7 +61,7 @@ function App() {
   const [stats, setStats] = useState(() => loadStats())
 
   useEffect(() => {
-    saveGameStateToLocalStorage({ guesses, solution })
+  //  saveGameStateToLocalStorage({ guesses, solution })
   }, [guesses])
 
   useEffect(() => {
