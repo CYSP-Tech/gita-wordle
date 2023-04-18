@@ -23,6 +23,7 @@ export const VALIDGUESSES = [
   'anaṭi',
   'anānu',
   'anigha',
+  'annam' ,
   'anupa',
   'anuma',
   'anūpa',
