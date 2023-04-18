@@ -563,6 +563,7 @@ export const VALIDGUESSES = [
 'kṛṣṇa',
 'asmin',
 'niṣṭhā',
+'niṣṭā',
 'anagha',
 'anena',
 'devān',
